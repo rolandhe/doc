@@ -1,0 +1,16 @@
+com.hiriver.local
+com.hiriver.unbiz.mysql.lib
+com.hiriver.unbiz.mysql.lib.filter
+com.hiriver.unbiz.mysql.lib.filter.impl
+com.hiriver.unbiz.mysql.lib.output
+com.hiriver.unbiz.mysql.lib.protocol
+com.hiriver.unbiz.mysql.lib.protocol.binary
+com.hiriver.unbiz.mysql.lib.protocol.binlog
+com.hiriver.unbiz.mysql.lib.protocol.binlog.event
+com.hiriver.unbiz.mysql.lib.protocol.binlog.exp
+com.hiriver.unbiz.mysql.lib.protocol.binlog.extra
+com.hiriver.unbiz.mysql.lib.protocol.connect
+com.hiriver.unbiz.mysql.lib.protocol.datautils
+com.hiriver.unbiz.mysql.lib.protocol.text
+com.hiriver.unbiz.mysql.lib.protocol.tool
+com.hiriverunbiz.mysql.lib.exp

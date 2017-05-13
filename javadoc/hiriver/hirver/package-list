@@ -1,0 +1,7 @@
+com.hiriver.channel
+com.hiriver.channel.stream
+com.hiriver.channel.stream.impl
+com.hiriver.position.store
+com.hiriver.position.store.impl
+com.hiriver.streamsource
+com.hiriver.streamsource.impl
